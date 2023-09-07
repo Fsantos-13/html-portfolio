@@ -29,5 +29,26 @@ body{
     margin: 3%;
     padding: 1%;
 }
+.projects-desc{
+    text-align: center;
 
+}
 
+.projects-desc > h2{
+    font-weight: bold;
+}
+
+.projects-desc > ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 15px;
+}
+
+.bi{
+    margin: 10px;
+}
+
+.bg-light{
+    border-radius: 50%;
+}
