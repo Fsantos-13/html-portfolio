@@ -80,7 +80,7 @@ h1{
         position: relative;
         left: 0%;
         top: 0%;
-        background-color: none;
+        background-color: transparent;
         padding: 0;
     }
 }
